@@ -7,6 +7,9 @@ h1{
   background-image: url(../../assets/images/ephraim.jpg);
   text-align: center;
 }
+#rowAboutMe{
+  color: blue;
+}
 #contact {
   color: white;
 }
