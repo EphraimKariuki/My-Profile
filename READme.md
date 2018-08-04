@@ -12,7 +12,7 @@ A web application that gives a description of the author.
 
 ## Prerequisites
 
--Web browser
+- Web browser
 
 ## TECHNOLOGIES USED
 
