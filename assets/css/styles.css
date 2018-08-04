@@ -2,23 +2,28 @@ h1 {
   text-decoration: underline;
   text-decoration-color: blue:
 }
-.introduction {
+.colContactQuickId {
+  background-color: blue;
+}
+.colContactMe {
+  background-color: grey;
+}
+#introduction {
   color: white;
   background-image: url(../../assets/images/ephraim.jpg);
   text-align: center;
 }
 #aboutMe {
-  background-color: blue;
+  background-color: rgb(138, 158, 242);
 }
 #contact {
   color: white;
+  background-color: rgb(138, 158, 242);
 }
-#colContactQuickId {
-  background-color: blue;
-}
-#colContactMe {
-  background-color: grey;
-}
+
 #rowFooter {
   background-color: grey;
+  border-style: solid;
+  border-width: thin;
+  border-color: rgb(138, 158, 242);
 }
