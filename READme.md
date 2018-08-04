@@ -8,7 +8,7 @@ A web application that gives a description of the author.
 
 ## LIVE LINK TO WEBSITE
 
-[Ephraim K. Kariuki] (https://ephraimkariuki.github.io/My-Profile/)
+[Ephraim K. Kariuki](https://ephraimkariuki.github.io/My-Profile/)
 
 ## Prerequisites
 
