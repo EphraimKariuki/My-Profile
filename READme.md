@@ -14,7 +14,7 @@ A web application that gives a description of the author.
 
 -Web browser
 
-## TECHNOLOGY USED
+## TECHNOLOGIES USED
 
 - html
 - css
